@@ -22,7 +22,6 @@ const rrfConfig = {
   useFirestoreForProfile: true // Firestore for Profile instead of Realtime DB
 }
 
-
 const firebaseConfig={
   apiKey: "AIzaSyBWFXyGslcF_DEXMLYoHkGZCOI2kx4kqJs",
   authDomain: "react-a80db.firebaseapp.com",
